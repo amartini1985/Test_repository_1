@@ -1,5 +1,5 @@
-print('Hello, Andrey!')
+print('Hello, Альберт!')
 print('Hello, Миша!')
 print('Hello, Алеша!')
-print('Hello, Сережа!')
+print('Hello, Альберт!')
 print('Hello, Петр!')
