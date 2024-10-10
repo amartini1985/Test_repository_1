@@ -1,6 +1,7 @@
-print('Hello, DIMA!')
+
+print('Hello, Альберт!')
 print('Hello, Миша!')
 print('Hello, Алеша!')
-print('Hello, DIMA!')
+print('Hello, Альберт!')
 print('Hello, Петр!')
 print('Hello, Вася!')
